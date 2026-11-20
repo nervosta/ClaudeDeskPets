@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="access_desc">Питомец видит положение иконок и ссылок на экране, чтобы прыгать по ним. Тексты и данные не читаются и не сохраняются.</string>
+</resources>
